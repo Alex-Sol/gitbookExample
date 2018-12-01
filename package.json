@@ -17,6 +17,7 @@
   },
   "homepage": "https://gitlab.com/Ouvill/gitbookexample#README",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "lodash": ">=4.17.5"
   }
 }
